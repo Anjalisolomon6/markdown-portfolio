@@ -1,2 +1,1 @@
-[GitHub](https://github.com)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[GitHub](https://www.life-global.org/mycourses?traineeStatus=finished&page=1)
