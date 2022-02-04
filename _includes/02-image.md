@@ -1,1 +1,1 @@
-[GitHub](https://www.youtube.com/results?search_query=Intro+to+Command+Line)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
