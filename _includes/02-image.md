@@ -1,1 +1,1 @@
-[GitHub](https://www.life-global.org/mycourses?traineeStatus=finished&page=1)
+[GitHub](https://www.youtube.com/results?search_query=Intro+to+Command+Line)
